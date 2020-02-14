@@ -7,9 +7,9 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class ScenesConfig2 {
 
-    @Bean
-    public Actor actresses() {
-        return new Actor("Minami");
-    }
+//    @Bean
+//    public Actor actresses() {
+//        return new Actor("Minami");
+//    }
 
 }
